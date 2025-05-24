@@ -1,0 +1,5 @@
+.env
+cdn_shop.zip
+/venv
+app/templates/pickle/token.pickle
+app/templates/json/cdn.json
