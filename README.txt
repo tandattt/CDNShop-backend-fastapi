@@ -13,7 +13,7 @@ uvicorn main:app --reload
 
 
 gmail: cdnshopp@gmail.com 
-pass mail: 12345678
+pass mail: ****
 đăng nhập mail xong thì vào đây nếu cần show cấu hình dịch vụ gửi gmail:
 https://console.cloud.google.com/auth/clients/62812387920-kp24re2jor1huifan94q3nb1d7i89dg8.apps.googleusercontent.com?authuser=2&inv=1&invt=AbyAeg&project=gmail-460518
 
